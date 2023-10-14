@@ -109,7 +109,7 @@ df.info()
 ![image](https://github.com/roshiniRK/ODD2023-Datascience-Ex01/assets/118956165/6310fc05-1be1-47a3-9768-094a0533d0a2)
 
 
-# #RESULT:
+# RESULT:
 Thus,the given data is read,cleansed and the cleaned data is saved into the file.
 
 
