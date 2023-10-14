@@ -17,7 +17,8 @@ Get the information about the data
 Remove the null values from the data
 ### STEP 4
 Save the Clean data to the file
-
+### Developed BY:ROSHINI R K
+### REG NO:212222230123
 # CODE :
 ### Data_set.csv :
 ```
@@ -108,8 +109,8 @@ df.info()
 ![image](https://github.com/roshiniRK/ODD2023-Datascience-Ex01/assets/118956165/6310fc05-1be1-47a3-9768-094a0533d0a2)
 
 
-
-
+# #RESULT:
+Thus,the given data is read,cleansed and the cleaned data is saved into the file.
 
 
 
